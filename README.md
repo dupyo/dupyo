@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science and Engineering and Programming.
 - 📫 How to reach me: ghdrnvy0922@naver.com
 
-[![Dupyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dupyo&theme=merko)](https://github.com/dupyo)
-
-<!-- <span><a href="https://github.com/dupyo?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dupyo&theme=buefy&layout=compact" />
-</a></span> -->
+[![Dupyo's github stats](https://github-readme-stats.vercel.app/api?username=dupyo&theme=merko)](https://github.com/dupyo/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dupyo&layout=compact)](https://github.com/dupyo/github-readme-stats) -->
 
 <a href="https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e">
     <img src="http://img.shields.io/badge/-My portfolio-lightgrey?style=flat&logo=Notion&link=https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e"
@@ -28,4 +25,5 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
+
 Thank you for visiting.
