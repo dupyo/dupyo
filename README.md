@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Computer Science and Engineering and Programming.
+- 🌱 I currently learn Computer Science and Engineering and Programming.
 - 📫 How to reach me: ghdrnvy0922@naver.com
 
 [![Dupyo's github stats](https://github-readme-stats.vercel.app/api?username=dupyo&theme=merko)](https://github.com/dupyo)
