@@ -78,5 +78,5 @@ Thank you for visiting.
 
 [![Dupyo's github stats](https://github-readme-stats.vercel.app/api?username=dupyo&theme=merko)](https://github.com/dupyo)    
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/dupyo)](https://blog.naver.com/dupyo)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/ghdrnvy0922)](https://blog.naver.com/ghdrnvy0922)
 </div>
