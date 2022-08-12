@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 * [Paper model](https://github.com/dupyo)
 * [Data Analysis](https://github.com/dupyo)
 * [Programmers](https://github.com/dupyo/programmers) 
-* [SAP-study](https://github.com/dupyo/SAP-study) 
+* [SAP-study](https://github.com/dupyo/SAP-study), [SAP-note(Notion)](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7)
 
 
 
