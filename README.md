@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 * [Programmers](https://github.com/dupyo/programmers) <!-- * [SAP-study](https://github.com/dupyo/SAP-study), [SAP-note(Notion)](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7) -->
 * [Study-note(development, cloud, etc.)](https://github.com/dupyo/study-note) 
 * [AI-note(RL, UL, etc.)](https://github.com/dupyo/ai-note) 
-* [RL-Learning](https://github.com/dupyo/rl-learning)
+* [RL-Learning(cust)](https://github.com/dupyo/rl-learning)
 
 
 <div align=center>
