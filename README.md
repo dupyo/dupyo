@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!-- * [Velog](https://velog.io/@jaeyun95)   -->
 
 ## 💻My Projects   
-* [My Projects](https://github.com/dupyo)
+* [My Project](https://github.com/dupyo)
 
 
 
