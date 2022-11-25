@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm learning Computer Science and Engineering and Programming.
+<!-- - 🌱 I'm learning Computer Science and Engineering and Programming. -->
 - 📫 How to reach me: ghdrnvy0922@naver.com
 
 <a href="https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e">
