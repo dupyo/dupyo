@@ -6,7 +6,7 @@
 
 
 # Dupyo's GitHub:relaxed:
-</div>   
+</div>
 
 ### Welcome! 👋
 
