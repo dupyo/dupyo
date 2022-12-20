@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 * [Study-note(development, cloud, etc.)](https://github.com/dupyo/study-note) 
 * [AI-note(RL, UL, etc.)](https://github.com/dupyo/ai-note) 
 * [RL-Learning(custom)](https://github.com/dupyo/rl-learning)
-
+* [CS-study](https://github.com/dupyo/cs-study)
 
 <div align=center>
 
