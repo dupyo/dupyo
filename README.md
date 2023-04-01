@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <!-- * 2021 하계정보과학회 우수논문상 SA부분 대표 / 2021 The KCC Summer Conference(Representative of SA Division for Excellent Paper Award) -->
 
 ## 📖My Studies
-* [Paper model](https://github.com/dupyo/rl-learning)
+* [Paper model(forked)](https://github.com/dupyo/rl-learning)
 * [Data analysis](https://github.com/dupyo)
 * [Programmers](https://github.com/dupyo/programmers) <!-- * [SAP-study](https://github.com/dupyo/SAP-study), [SAP-note(Notion)](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7) -->
 * [Study-note(cloud, cs, development, etc.)](https://github.com/dupyo/study-note) 
