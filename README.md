@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <!-- * [Vision–Language–Knowledge Co-Embedding for Visual Commonsense Reasoning](https://www.mdpi.com/1424-8220/21/9/2911#cite)-2021 MDPI Sensors -->
 
 ## 🏆My Awards
-* [2021 춘계종합학술발표회 우수논문상 / 2021 The KIIECT Spring Conference(excellent thesis award)](https://github.com/dupyo)
+* [2021 춘계종합학술발표회 우수논문상 / 2021 The KIIECT Spring Conference ](https://github.com/dupyo)
 * [2019 한이음 ICT 공모전 동상 / 2019 The Hanium ICT Challenge 3rd award](https://github.com/dupyo)
 * [2018 한이음 ICT 공모전 장려상 / 2018 The Hanium ICT Challenge award](https://github.com/dupyo)
 <!-- * [20xx 춘계정보처리학회 은상 / 2018 The KIPS Spring Conference(Silver award)](https://github.com/dupyo/README.md)   -->
