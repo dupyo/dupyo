@@ -8,7 +8,7 @@
 # Dupyo's GitHub:relaxed:
 </div>
 
-### Welcome! 👋..
+### Welcome! 👋
 
 <!--
 **dupyo/dupyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
