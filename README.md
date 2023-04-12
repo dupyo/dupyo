@@ -72,6 +72,11 @@ Here are some ideas to get you started:
 * [RL-Learning(forked)](https://github.com/dupyo/rl-learning)
 * [CS-study](https://github.com/dupyo/cs-study)
 
+## 📑My Certifications
+- SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50
+- 정보처리기사
+- 워드프로세서
+
 <div align=center>
 
 [![Dupyo's github stats](https://github-readme-stats.vercel.app/api?username=dupyo&theme=merko)](https://github.com/dupyo)    
