@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 * [RL-Learning(forked)](https://github.com/dupyo/rl-learning)
 * [CS-study](https://github.com/dupyo/cs-study)
 
-## 📑My Certifications
+## 📑My Certificates
 - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50(2022)
 - 정보처리기사(2021)
 - 워드프로세서(2019)
