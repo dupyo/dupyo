@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50(2022)
 - 정보처리기사(2021)
 - 워드프로세서(2019)
+- 정보처리산업기사(2019)
 
 <div align=center>
 
