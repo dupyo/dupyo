@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 * [Cloud Resource Allocation Reinforcement Learning Method for Quality of Service Maintenance in Cloud-Based Service](https://github.com/dupyo)-KCC2022
 * [Design of Kappa Architecture Using Apache Storm and HBase for Real-Time Processing of Big Data](https://github.com/dupyo)-2021KIIECT
 
-<!-- * [Design and Implementation of Episodic Memory for Context Management](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=literature&literature=Y&more=Y&research=Y&pg=2&gu=INME001F9&cmd=qryview&SnxIndxNum=219264&q1_yy=2018&q1_mm=11&rownum=11&totalCnt=135&q1_t=6rmA7J247LKg&listUrl=L2xpdGVyYXR1cmUvcmVzdWx0LnBocD9TbnhHdWJ1bj1JTk1FJm1vZGU9dG90YWwmc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJmxpdGVyYXR1cmU9WSZxMT0lQjElRTglQzAlQ0UlQzMlQjYmbW9yZT1ZJmYxPU1OJnJlc2VhcmNoPVkmcGc9Mg==&f1=MN&q1=%B1%E8%C0%CE%C3%B6)-2018KIPS    -->
 <!-- * [Visual Commonsense Reasoning with Knowledge Graph](http://kips.or.kr/bbs/confn/article/1024)-2019KIPS    -->
 <!-- * [Image-Language Co-embedding and Knowledge Graph Embedding for Visual Commonsense Reasoning](http://www.kiise.or.kr/academy/board/publishList2.fa?MENU_ID=060500)-2020KCC    -->
 
@@ -59,7 +58,6 @@ Here are some ideas to get you started:
 * [2019 한이음 ICT 공모전 장려상 / 2019 The Hanium ICT Challenge award](https://github.com/dupyo)
 * [2018 한이음 ICT 공모전 / 2018 The Hanium ICT Challenge award](https://github.com/dupyo)
 <!-- * [20xx 춘계정보처리학회 은상 / 2018 The KIPS Spring Conference(Silver award)](https://github.com/dupyo/README.md)   -->
-<!-- * [20xx 한국정보기술학술단체총연합회 우수논문상 / 2019 Korea Federation of Information Technology Societies(Excellent thesis award)](https://github.com/dupyo/README.md)   -->
 <!-- * [2020 하계정보과학회 우수발표논문상 / 2020 The KCC Summer Conference(Outstanding Presentation Paper Award)](https://github.com/dupyo/README.md)   -->
 <!-- * 2021 하계정보과학회 우수논문상 SA부분 대표 / 2021 The KCC Summer Conference(Representative of SA Division for Excellent Paper Award) -->
 
