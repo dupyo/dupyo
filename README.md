@@ -3,12 +3,10 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdupyo%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-
 # Dupyo's GitHub:relaxed:
 </div>
 
 ### Welcome! 👋
-
 
 <!--
 **dupyo/dupyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--ㅇ>
 
 <!-- - 🌱 I'm learning Computer Science and Engineering and Programming. -->
 - 📫 How to reach me: ghdrnvy0922@naver.com
