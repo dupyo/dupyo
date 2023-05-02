@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 <!-- - 🌱 I'm learning Computer Science and Engineering and Programming. -->
 - 📫 How to reach me: ghdrnvy0922@naver.com
 
+<a href="https://clumsy-peridot-660.notion.site/008a492daa924dad923cd50920b09c47">
+    <img src="http://img.shields.io/badge/-My portfolio-lightgrey?style=flat&logo=Notion&link=https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 <a href="https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e">
     <img src="http://img.shields.io/badge/-My portfolio-lightgrey?style=flat&logo=Notion&link=https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
