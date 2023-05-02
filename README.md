@@ -27,10 +27,10 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e">
+<!-- <a href="https:r//dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e">
     <img src="http://img.shields.io/badge/-My portfolio-lightgrey?style=flat&logo=Notion&link=https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> -->
 
 <br/>
 
