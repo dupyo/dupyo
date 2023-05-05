@@ -65,7 +65,9 @@ Here are some ideas to get you started:
 
 ## 📖My Studies
 * [Paper model(forked)](https://github.com/dupyo/rl-learning)
-* [Programmers](https://github.com/dupyo/programmers) <!-- * [SAP-study](https://github.com/dupyo/SAP-study), [SAP-note(Notion)](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7) -->
+* [Programmers](https://github.com/dupyo/programmers) 
+<!-- * [SAP-study](https://github.com/dupyo/SAP-study) -->
+* [SAP-note](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7)
 * [Study-note(bigdata, cloud, cs, development, security, etc.)](https://github.com/dupyo/study-note) 
 * [AI-note(RL, UL, etc.)](https://github.com/dupyo/ai-note) 
 * [RL-Learning(forked)](https://github.com/dupyo/rl-learning)
