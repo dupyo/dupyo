@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 * [AI-note(RL, UL, etc.)](https://github.com/dupyo/ai-note) 
 * [RL-Learning(forked)](https://github.com/dupyo/rl-learning)
 * [CS-study](https://github.com/dupyo/cs-study)
-* [aws]()
+* [aws](https://github.com/dupyo)
 <!-- * [SAP-study](https://github.com/dupyo/SAP-study) -->
 
 ## 📑My Certificates
