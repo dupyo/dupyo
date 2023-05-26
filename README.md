@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 ## 🏠My HomePages
 * [Notion](https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e)  
-<!-- * [Tistory](https://jaeyoon-95.tistory.com/)   -->
-<!-- * [Velog](https://velog.io/@jaeyun95)   -->
+<!-- * [Tistory]()   -->
+<!-- * [Velog]()   -->
 
 
 <!-- ## 💻My Projects
