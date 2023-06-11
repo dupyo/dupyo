@@ -61,11 +61,9 @@ Here are some ideas to get you started:
 
 ## 📖My Studies
 
-Studying
+Study
 
 * [Paper model(forked)](https://github.com/dupyo/rl-learning)
-* [Programmers](https://github.com/dupyo/programmers)
-* [SAP-note](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7)
 * [Study-note(bigdata, cloud, cs, development, security, etc.)](https://github.com/dupyo/study-note) 
 * [AI-note(RL, UL, etc.)](https://github.com/dupyo/ai-note) 
 * [RL-Learning(forked)](https://github.com/dupyo/rl-learning)
@@ -73,6 +71,8 @@ Studying
 Learning
 
 * [CS-study](https://github.com/dupyo/cs-study)
+* [Programmers](https://github.com/dupyo/programmers)
+* [SAP-note](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7)
 * [aws(aws summit seoul 2023)](https://clumsy-peridot-660.notion.site/AWS-Summit-Seoul-2023-cb49fcd118e744fa95ff6682bd3f9635)
 <!-- * [SAP-study](https://github.com/dupyo/SAP-study) -->
 
