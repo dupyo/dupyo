@@ -70,10 +70,10 @@ Study
 Learning
 
 * [CS-study](https://github.com/dupyo/cs-study)
-* [Programmers](https://github.com/dupyo/programmers)
 * [SAP-note](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7)
 * [Study-note(bigdata, cloud, cs, development, security, etc.)](https://github.com/dupyo/study-note) 
-* [aws(aws summit seoul 2023)](https://clumsy-peridot-660.notion.site/AWS-Summit-Seoul-2023-cb49fcd118e744fa95ff6682bd3f9635)
+* [Programmers](https://github.com/dupyo/programmers)
+* [aws(Aws summit seoul 2023)](https://clumsy-peridot-660.notion.site/AWS-Summit-Seoul-2023-cb49fcd118e744fa95ff6682bd3f9635)
 
 
 ## 📑My Certificates
