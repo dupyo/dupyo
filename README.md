@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🏠My HomePages
-* [노션-Notion](https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e)  
+* [노션(Notion)](https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e)  
 
 <!-- ## 💻My Projects
 * [My Project](https://github.com/dupyo)
@@ -61,13 +61,13 @@ Here are some ideas to get you started:
 
 ## 📖My Studies
 
-연구-Study
+연구(Study)
 
 * [Paper model(forked)](https://github.com/dupyo/rl-learning)
 * [AI-note(RL, UL, etc.)](https://github.com/dupyo/ai-note) 
 * [RL-Learning(forked)](https://github.com/dupyo/rl-learning)
 
-학습-Learning
+학습(Learning)
 
 * [CS-study](https://github.com/dupyo/cs-study)
 * [SAP-note](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7)
