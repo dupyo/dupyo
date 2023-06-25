@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## 🎓My Papers
 * [클라우드 애플리케이션의 성능 모니터링을 위한 시계열 데이터 분석 연구(A study on time series data analysis for performance monitoring of cloud applications)]()-ASK2023
 * [클라우드 기반 소프트웨어 서비스 품질 유지를 위한 자원 할당 강화학습 기법 연구(Resource Allocation Reinforcement Learning for Quality of Service Maintenance in Cloud-Based Service)](https://github.com/dupyo)-ICOIN2023
-* [Cloud Resource Allocation Reinforcement Learning Method for Quality of Service Maintenance in Cloud-Based Service](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113615)-KCC2022
+* [클라우드 기반 서비스 품질 유지를 위한 자원 할당 강화학습 기법 연구(Cloud Resource Allocation Reinforcement Learning Method for Quality of Service Maintenance in Cloud-Based Service)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113615)-KCC2022
 * [Design of Kappa Architecture Using Apache Storm and HBase for Real-Time Processing of Big Data](https://github.com/dupyo)-2021KIIECT
 
 <!-- * [Visual Commonsense Reasoning with Knowledge Graph](http://kips.or.kr/bbs/confn/article/1024)-2019KIPS    -->
