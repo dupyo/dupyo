@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 * [AI-note(RL, UL, etc.)](https://github.com/dupyo/ai-note) 
 * [RL-Learning(forked)](https://github.com/dupyo/rl-learning)
 
-학습(Learning)
+개별공부(Learning)
 
 * [CS-study](https://github.com/dupyo/cs-study)
 * [SAP-note](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7)
