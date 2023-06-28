@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🏠My HomePages
-* [노션(Notion)](https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e)  
+* [노션(Notion)](https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e)
+* [블로그]()
 
 <!-- ## 💻My Projects
 * [My Project](https://github.com/dupyo)
