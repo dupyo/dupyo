@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 홍두표 / ghdrnvy0922@naver.com
 
 
-<!-- <a href="https:r//dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e"> -->
 <a href="https://clumsy-peridot-660.notion.site/008a492daa924dad923cd50920b09c47">
     <img src="http://img.shields.io/badge/-My portfolio-lightgrey?style=flat&logo=Notion&link=https://dot-vegetable-5ae.notion.site/274ed2b34f5846caae57ae9c96f4777e"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -48,7 +47,6 @@ Here are some ideas to get you started:
 * [Design of Kappa Architecture Using Apache Storm and HBase for Real-Time Processing of Big Data](https://github.com/dupyo)-2021KIIECT
 
 <!-- * [Visual Commonsense Reasoning with Knowledge Graph](http://kips.or.kr/bbs/confn/article/1024)-2019KIPS    -->
-<!-- * [Image-Language Co-embedding and Knowledge Graph Embedding for Visual Commonsense Reasoning](http://www.kiise.or.kr/academy/board/publishList2.fa?MENU_ID=060500)-2020KCC    -->
 
 
 ## 🏆My Awards
