@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 --ㅇ>
 
 <!-- - 🌱 I'm learning Computer Science and Engineering and Programming. -->
-- 📫 How to reach me: 홍두표 / ghdrnvy0922@naver.com
+- 📫 How to reach me:: 홍두표 / ghdrnvy0922@naver.com
 
 
 <a href="https://clumsy-peridot-660.notion.site/008a492daa924dad923cd50920b09c47">
