@@ -3,7 +3,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdupyo%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-# Dupyo's Github:relaxed:
+# Dupyo's Github:😎
 </div>
 
 ### Welcome! 👋
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 * [AI-note(RL, UL, etc.)](https://github.com/dupyo/ai-note) 
 * [RL-Learning(forked)](https://github.com/dupyo/rl-learning)
 
-개별공부(Learning)
+학습(Learning)
 
 * [CS-study](https://github.com/dupyo/cs-study)
 * [Study-note(bigdata, cloud, cs, development, security, etc.)](https://github.com/dupyo/study-note)
